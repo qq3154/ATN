@@ -61,10 +61,10 @@
 				
 						
 				# Heroku credential 
-				$host_heroku = "ec2-34-203-255-149.compute-1.amazonaws.com";
-				$db_heroku = "dfafdda85iuufp";
-				$user_heroku = "fwhvqbdasvcpdw";
-				$pw_heroku = "ee454b013d21e0981d72f13efd5297cb5392457328d856308fe8bd8b23ac168a";
+				$host_heroku = "ec2-18-211-97-89.compute-1.amazonaws.com";
+				$db_heroku = "dfve3f805q22f9";
+				$user_heroku = "kmgztgdbtyyfmc";
+				$pw_heroku = "f7f03ff05c4eed2ecb9a822f79445b0b818f97aa8d156610ae811d46265ca0a2";
 			
 				# Create connection to Heroku Postgres
 				$conn_string = "host=$host_heroku port=5432 dbname=$db_heroku user=$user_heroku password=$pw_heroku";
