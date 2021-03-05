@@ -139,12 +139,12 @@
 			
 					<p>
 						<label>Product price: &nbsp;&nbsp;&nbsp;&nbsp; </label>
-						<input type="password" placeholder="Enter price" id="price" name="price"/>
+						<input type="text" placeholder="Enter price" id="price" name="price"/>
 					</p>
                 
 					<p>
 						<label>Product quantity:</label>
-						<input type="password" placeholder="Enter quantity" id="quantity" name="quantity"/>
+						<input type="text" placeholder="Enter quantity" id="quantity" name="quantity"/>
 					</p>
 			
 					<p>
@@ -171,12 +171,12 @@
 			
 					<p>
 						<label>Product price: &nbsp;&nbsp;&nbsp;&nbsp; </label>
-						<input type="password" placeholder="Enter price" id="price" name="price"/>
+						<input type="text" placeholder="Enter price" id="price" name="price"/>
 					</p>
                 
 					<p>
 						<label>Product quantity:</label>
-						<input type="password" placeholder="Enter quantity" id="quantity" name="quantity"/>
+						<input type="text" placeholder="Enter quantity" id="quantity" name="quantity"/>
 					</p>
 			
 					<p>
